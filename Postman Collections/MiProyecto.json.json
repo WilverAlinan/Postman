@@ -133,18 +133,24 @@
 						"disableBodyPruning": true
 					},
 					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": {
+								"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGVsbGlkb3MiOiJHb2RpbmV6IiwidXNlcl9uYW1lIjoibWdvZGluZXoiLCJzY29wZSI6WyJyZWFkIiwid3JpdGUiXSwiZXhwIjoxNjU3MzQxNTMyLCJhdXRob3JpdGllcyI6WyJST0xFX0FETUlOIl0sImp0aSI6IjNjYTMxMDhlLWI3NWItNDdiYS1hNGIzLTBjYzM2ZjUyOGZkZCIsImVtYWlsIjoibWdvZGluZXpAZ21haWwuY29tIiwiY2xpZW50X2lkIjoia2FsdW0tYXBwIiwibm9tYnJlcyI6Im1hcmlhIn0.ffjzeGNFas9DzSkAzwjbBEeSiTxQd7Jq-16z9Fgzsac"
+							}
+						},
 						"method": "PUT",
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"carreraTecnica\": \"DESARROLLO DE APLICACIONES MOVILES\"\r\n}",
+							"raw": "{\r\n    \"carreraTecnica\": \"DESARROLLO DE APLICACIONES WEB\"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
 								}
 							}
 						},
-						"url": "http://localhost:9000/kalum-management/v1/carreras-tecnicas/f94d876f-c05b-47ed-b407-f48129ca2307"
+						"url": "http://localhost:9000/kalum-management/v1/carreras-tecnicas/86d6ae28-c344-11ec-b235-0242ac110002"
 					},
 					"response": []
 				},
