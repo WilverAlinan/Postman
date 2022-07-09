@@ -848,14 +848,14 @@
 						"auth": {
 							"type": "bearer",
 							"bearer": {
-								"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGVsbGlkb3MiOiJHb2RpbmV6IiwidXNlcl9uYW1lIjoibWdvZGluZXoiLCJzY29wZSI6WyJyZWFkIiwid3JpdGUiXSwiZXhwIjoxNjU3MjQ5MDEwLCJhdXRob3JpdGllcyI6WyJST0xFX0FETUlOIl0sImp0aSI6IjdiY2I0MTEwLWQzNjItNDc2Yi04ZWEwLTFiNTk5ZTk5ZWFiNSIsImVtYWlsIjoibWdvZGluZXpAZ21haWwuY29tIiwiY2xpZW50X2lkIjoia2FsdW0tYXBwIiwibm9tYnJlcyI6Im1hcmlhIn0.5m0kaF8_3nz7VhIxm0xi7HH189s2hRzTE6yJE9Rooac"
+								"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGVsbGlkb3MiOiJHb2RpbmV6IiwidXNlcl9uYW1lIjoibWdvZGluZXoiLCJzY29wZSI6WyJyZWFkIiwid3JpdGUiXSwiZXhwIjoxNjU3MzQxNTMyLCJhdXRob3JpdGllcyI6WyJST0xFX0FETUlOIl0sImp0aSI6IjNjYTMxMDhlLWI3NWItNDdiYS1hNGIzLTBjYzM2ZjUyOGZkZCIsImVtYWlsIjoibWdvZGluZXpAZ21haWwuY29tIiwiY2xpZW50X2lkIjoia2FsdW0tYXBwIiwibm9tYnJlcyI6Im1hcmlhIn0.ffjzeGNFas9DzSkAzwjbBEeSiTxQd7Jq-16z9Fgzsac"
 							}
 						},
 						"method": "POST",
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"noExpediente\": \"EXP-20220006\",\r\n    \"ciclo\": \"2022\",\r\n    \"mesInicioPago\": 2,\r\n    \"carreraId\": \"78c9619a-b55e-11ec-9105-0242ac110002\"\r\n}",
+							"raw": "{\r\n    \"noExpediente\": \"EXP-20220005\",\r\n    \"ciclo\": \"2022\",\r\n    \"mesInicioPago\": 1,\r\n    \"carreraId\": \"78c9619a-b55e-11ec-9105-0242ac110002\"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
