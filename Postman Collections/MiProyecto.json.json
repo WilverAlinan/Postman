@@ -385,14 +385,14 @@
 						"auth": {
 							"type": "bearer",
 							"bearer": {
-								"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGVsbGlkb3MiOiJHb2RpbmV6IiwidXNlcl9uYW1lIjoibWdvZGluZXoiLCJzY29wZSI6WyJyZWFkIiwid3JpdGUiXSwiZXhwIjoxNjU3MjYxMTgxLCJhdXRob3JpdGllcyI6WyJST0xFX0FETUlOIl0sImp0aSI6ImM1ZTQwNDBjLTg5YmYtNDdkMC1hNTJkLTE5NTEzM2Q5NDVhZCIsImVtYWlsIjoibWdvZGluZXpAZ21haWwuY29tIiwiY2xpZW50X2lkIjoia2FsdW0tYXBwIiwibm9tYnJlcyI6Im1hcmlhIn0.T_hdQz8qHRYlxMc6c5KWpnz8Uip4WX0SNUBlur_82vY"
+								"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGVsbGlkb3MiOiJHb2RpbmV6IiwidXNlcl9uYW1lIjoibWdvZGluZXoiLCJzY29wZSI6WyJyZWFkIiwid3JpdGUiXSwiZXhwIjoxNjU3MzQxNTMyLCJhdXRob3JpdGllcyI6WyJST0xFX0FETUlOIl0sImp0aSI6IjNjYTMxMDhlLWI3NWItNDdiYS1hNGIzLTBjYzM2ZjUyOGZkZCIsImVtYWlsIjoibWdvZGluZXpAZ21haWwuY29tIiwiY2xpZW50X2lkIjoia2FsdW0tYXBwIiwibm9tYnJlcyI6Im1hcmlhIn0.ffjzeGNFas9DzSkAzwjbBEeSiTxQd7Jq-16z9Fgzsac"
 							}
 						},
 						"method": "POST",
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"carreraId\": \"86d6ae28-c344-11ec-b235-0242ac110002\",\r\n    \"montoInscripcion\": \"1500.00\",\r\n    \"numeroPagos\": 6,\r\n    \"montoPagos\": \"1000.00\"\r\n}",
+							"raw": "{\r\n    \"carreraId\": \"86d6ae28-c344-11ec-b235-0242ac110002\",\r\n    \"montoInscripcion\": \"1000.00\",\r\n    \"numeroPagos\": 6,\r\n    \"montoPagos\": \"800.00\"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
