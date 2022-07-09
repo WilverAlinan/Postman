@@ -933,12 +933,12 @@
 						"auth": {
 							"type": "bearer",
 							"bearer": {
-								"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGVsbGlkb3MiOiJHb2RpbmV6IiwidXNlcl9uYW1lIjoibWdvZGluZXoiLCJzY29wZSI6WyJyZWFkIiwid3JpdGUiXSwiZXhwIjoxNjU3MjUyNjEzLCJhdXRob3JpdGllcyI6WyJST0xFX0FETUlOIl0sImp0aSI6IjYwNmIyNDA5LTI3YjUtNGIwZi04MGRkLWZhNjJkNGNmNDc2MSIsImVtYWlsIjoibWdvZGluZXpAZ21haWwuY29tIiwiY2xpZW50X2lkIjoia2FsdW0tYXBwIiwibm9tYnJlcyI6Im1hcmlhIn0.V1UgGedR5bibMD7yXx6RBSBkVEdXLtL4oim4et-qGsI"
+								"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGVsbGlkb3MiOiJHb2RpbmV6IiwidXNlcl9uYW1lIjoibWdvZGluZXoiLCJzY29wZSI6WyJyZWFkIiwid3JpdGUiXSwiZXhwIjoxNjU3MzQxNTMyLCJhdXRob3JpdGllcyI6WyJST0xFX0FETUlOIl0sImp0aSI6IjNjYTMxMDhlLWI3NWItNDdiYS1hNGIzLTBjYzM2ZjUyOGZkZCIsImVtYWlsIjoibWdvZGluZXpAZ21haWwuY29tIiwiY2xpZW50X2lkIjoia2FsdW0tYXBwIiwibm9tYnJlcyI6Im1hcmlhIn0.ffjzeGNFas9DzSkAzwjbBEeSiTxQd7Jq-16z9Fgzsac"
 							}
 						},
 						"method": "DELETE",
 						"header": [],
-						"url": "http://localhost:9000/kalum-management/v1/inscripciones/d685d3a1-fd9b-11ec-925f-0242ac110002"
+						"url": "http://localhost:9000/kalum-management/v1/inscripciones/1ef46410-ff39-11ec-b4b0-0242ac110003"
 					},
 					"response": []
 				}
