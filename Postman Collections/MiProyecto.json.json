@@ -16,9 +16,10 @@
 					},
 					"request": {
 						"auth": {
-							"type": "bearer",
-							"bearer": {
-								"token": "1ef46410-ff39-11ec-b4b0-0242ac110003"
+							"type": "basic",
+							"basic": {
+								"password": "12345",
+								"username": "kalum-app"
 							}
 						},
 						"method": "POST",
