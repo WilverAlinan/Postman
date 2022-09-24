@@ -70,7 +70,7 @@
 						"auth": {
 							"type": "bearer",
 							"bearer": {
-								"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGVsbGlkb3MiOiJHb2RpbmV6IiwidXNlcl9uYW1lIjoibWdvZGluZXoiLCJzY29wZSI6WyJyZWFkIiwid3JpdGUiXSwiZXhwIjoxNjU3Mzk4MDY2LCJhdXRob3JpdGllcyI6WyJST0xFX0FETUlOIl0sImp0aSI6IjFhNmJlMTcxLWYyNjUtNDE1My05MDA0LTI2ODZhNjM3OTQ5OSIsImVtYWlsIjoibWdvZGluZXpAZ21haWwuY29tIiwiY2xpZW50X2lkIjoia2FsdW0tYXBwIiwibm9tYnJlcyI6Im1hcmlhIn0.KrKYtuMW-qX5EOYGH-4_9zTK2426enAecq6HE8dfEwI"
+								"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGVsbGlkb3MiOiJHb2RpbmV6IiwidXNlcl9uYW1lIjoibWdvZGluZXoiLCJzY29wZSI6WyJyZWFkIiwid3JpdGUiXSwiZXhwIjoxNjY0MDUxMjU0LCJhdXRob3JpdGllcyI6WyJST0xFX0FETUlOIl0sImp0aSI6IjJhNjA3ZjNlLWU4OTgtNDRiZC04ZDQ2LWQ1ODI3NDcwYWQ4NiIsImVtYWlsIjoibWdvZGluZXpAZ21haWwuY29tIiwiY2xpZW50X2lkIjoia2FsdW0tYXBwIiwibm9tYnJlcyI6Im1hcmlhIn0.gwFCmMHqvdg5vpTv_Bkg089QZYh9NJCYepyXHWKGzIM"
 							}
 						},
 						"method": "GET",
